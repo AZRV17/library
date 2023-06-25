@@ -1,0 +1,15 @@
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\bin\Debug\net6.0-windows\Theme.deps.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\bin\Debug\net6.0-windows\Theme.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\bin\Debug\net6.0-windows\Theme.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Themes\Theme.baml
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme_MarkupCompile.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme.g.resources
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\refint\Theme.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\Theme.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\Theme\obj\Debug\net6.0-windows\ref\Theme.dll

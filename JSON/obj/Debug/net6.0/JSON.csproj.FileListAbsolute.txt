@@ -1,0 +1,12 @@
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\bin\Debug\net6.0\JSON.deps.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\bin\Debug\net6.0\JSON.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\bin\Debug\net6.0\JSON.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\JSON.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\JSON.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\JSON.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\JSON.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\JSON.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\refint\JSON.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\JSON.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\WPFLib\JSON\obj\Debug\net6.0\ref\JSON.dll
